@@ -60,7 +60,7 @@ connects the A and B  quadrature signals to D4 and D2.
   </TR>
   <TR>
     <TD>D3</TD>
-    <TD>Sonar N8-2 Echo Return</TD>
+    <TD>Sonar N8-3 Trigger</TD>
   </TR>
   <TR>
     <TD>D4</TD>
@@ -80,11 +80,11 @@ connects the A and B  quadrature signals to D4 and D2.
   </TR>
   <TR>
     <TD>D8</TD>
-    <TD>H-Bridge 4B</TD>
+    <TD>H-Bridge 3A</TD>
   </TR>
   <TR>
     <TD>D9</TD>
-    <TD>Sonar N7-3 Tirgger</TD>
+    <TD>Sonar N7-3 Trigger</TD>
   </TR>
   <TR>
     <TD>D10</TD>
